@@ -23,8 +23,8 @@ class Rectangle(Shape):
             ' height: ' + str(self.height)
         
 #Create a Rectangle object
-rec = Rectangle(5, 10, 8, 9)
-print(rec)
-rec.move(10, 12)
-print(rec)
+#rec = Rectangle(5, 10, 8, 9)
+#print(rec)
+#rec.move(10, 12)
+#print(rec)
         
